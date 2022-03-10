@@ -9,3 +9,4 @@ nytprof.out
 MYMETA.json
 MYMETA.yml
 Template-Plugin-Cache-*/
+Template-Plugin-Cache-*.gz
