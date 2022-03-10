@@ -4,7 +4,7 @@
 
 ## NAME
 
-    Template::Plugin::Cache - cache output of templates
+Template::Plugin::Cache - cache output of templates
 
 ## SYNOPSIS
 
