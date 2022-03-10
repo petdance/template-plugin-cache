@@ -4,6 +4,9 @@ Revision history for Perl module Template::Plugin::Cache:
         - Correctly handle keys built from multi-key hashes.
             https://rt.cpan.org/Public/Bug/Display.html?id=118809
 
+Maintenance has been taken over by Andy Lester (andy@petdance.com)
+
+
 0.13 Sun Jun 10, 2007
         - Add support for using an existing cache object
            (Peter Karman <peter@peknet.com>)
