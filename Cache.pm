@@ -5,7 +5,7 @@ use vars qw( $VERSION );
 use base qw( Template::Plugin );
 use Template::Plugin;
 
-$VERSION = '0.13';
+$VERSION = '0.14';
 
 #------------------------------------------------------------------------
 # new(\%options)
