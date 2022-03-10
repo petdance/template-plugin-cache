@@ -5,4 +5,5 @@ Cache.pm
 README.md
 t/00-load.t
 t/cache.t
+t/multikeys.t
 META.yml                                 Module meta-data (added by MakeMaker)

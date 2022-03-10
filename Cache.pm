@@ -59,7 +59,7 @@ sub _cached_action {
             ':',
             (
                 $params->{template},
-                map { "$_=$cache_keys->{$_}" } keys %{$cache_keys}
+                map { "$_=$cache_keys->{$_}" } sort keys %{$cache_keys}
             )
         );
     }
